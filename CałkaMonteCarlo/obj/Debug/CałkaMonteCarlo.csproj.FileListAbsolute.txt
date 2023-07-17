@@ -1,0 +1,8 @@
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\CałkaMonteCarlo\CałkaMonteCarlo\bin\Debug\CałkaMonteCarlo.exe
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\CałkaMonteCarlo\CałkaMonteCarlo\bin\Debug\CałkaMonteCarlo.pdb
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\CałkaMonteCarlo\CałkaMonteCarlo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\CałkaMonteCarlo\CałkaMonteCarlo\obj\Debug\CałkaMonteCarlo.Properties.Resources.resources
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\CałkaMonteCarlo\CałkaMonteCarlo\obj\Debug\CałkaMonteCarlo.csproj.GenerateResource.Cache
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\CałkaMonteCarlo\CałkaMonteCarlo\obj\Debug\CałkaMonteCarlo.exe
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\CałkaMonteCarlo\CałkaMonteCarlo\obj\Debug\CałkaMonteCarlo.pdb
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\CałkaMonteCarlo\CałkaMonteCarlo\obj\Debug\CałkaMonteCarlo.Form1.resources
